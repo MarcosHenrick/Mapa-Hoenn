@@ -27,7 +27,7 @@ Neste projeto, foi desenvolvido um mapa inspirado no universo do jogo Pokémon, 
     <canvas id="canvas-Elite4" width="80" height="80"></canvas>
 ```
 
-5. No script, altere o ID para aquele que corresponde ao canvas indicado para o seu participante. 
+5. No seu script, altere o ID para aquele que corresponde ao canvas indicado para o seu participante. 
 ```bash
 const canvas = document.getElementById("canvas-Littleroot-Town");
 ```
@@ -38,5 +38,6 @@ const canvas = document.getElementById("canvas-Littleroot-Town");
   <script src="animacaoAlvaro.js"></script>
 </body>
 ```
+
 
 
